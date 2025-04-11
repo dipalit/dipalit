@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/dipalit/dipalit/blob/main/intro%20banner.gif" />
+<img src="https://github.com/dipalit/dipalit/blob/main/imgs/github%20intro%20banner%20%20final.gif" />
 </div>
 
 

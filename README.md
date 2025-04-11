@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning How to code in Python<br>
-💬 Ask me about<br>
-⚡ Fun fact
+👋 I'm Dipali, Fullstack Digital Marketer from  Ahmedabad, India, currently living in  Paderborn, Geramany. </br>
+👋 Hi there! I’m currently working on building a strong foundation in Python for data analysis and digital analytics.</br>
+👯 I’m looking to collaborate on beginner-friendly Python and analytics projects.</br>
+🤝 I’m looking for help with applying Python in real-world marketing and analytics use cases.</br>
+🌱 I’m currently learning how to code in Python — focusing on data manipulation, visualization, and automation.</br>
+💬 Ask me about my journey into digital analytics, favorite tools like GA4, GTM, and how I’m combining coding with marketing insights.</br>
 
 
 # 💻 Tech Stack:
@@ -36,5 +36,15 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dipalit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## Let's Connect :handshake:
+
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.  𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+<a href="https://www.linkedin.com/in/dipalit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

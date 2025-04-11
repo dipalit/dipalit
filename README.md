@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+
+
 # 💫 About Me:
 👋 I'm Dipali, Fullstack Digital Marketer from  Ahmedabad, India, currently living in  Paderborn, Geramany. </br>
 👋 Hi there! I’m currently working on building a strong foundation in Python for data analysis and digital analytics.</br>
